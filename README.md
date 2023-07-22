@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://tenor.com/view/gojo-anime-gojo-satoru-jujutsu-kaisen-gif-24959284" width="100"/>
 </div>
+---
 <div id="badges" align="center">
   <a href="https://t.me/xp4da">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
