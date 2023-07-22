@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/view/gojo-anime-gojo-satoru-jujutsu-kaisen-gif-24959284" width="100"/>
+  <img src="https://www.instagram.com/p/Ceqhb01NWMk/?utm_source=ig_web_copy_link" width="100"/>
 </div>
 
-  ---
+   ---
  
 <div id="badges" align="center">
   <a href="https://t.me/xp4da">
