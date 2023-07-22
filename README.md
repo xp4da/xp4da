@@ -8,6 +8,10 @@
   <a href="https://www.instagram.com/xp4da/?next=%2F">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Innstagram Badge"/>
     <img src="https://komarev.com/ghpvc/?username=your-github-xp4da&style=flat-square&color=blue" alt=""/>
+    <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
  
 <!---
 xp4da/xp4da is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
