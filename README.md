@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/anime-pixel-fighting-ramBbsu5kGc8AJHd1h" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-   ---
+  ---
  
 <div id="badges" align="center">
   <a href="https://t.me/xp4da">
