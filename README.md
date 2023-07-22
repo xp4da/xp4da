@@ -8,6 +8,7 @@
   <a href="https://www.instagram.com/xp4da/?next=%2F">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Innstagram Badge"/>
   </a>
+  <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=your-github-xp4da&style=flat-square&color=blue" alt=""/>
     <h1>
   hey there
