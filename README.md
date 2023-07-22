@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/skeqs-a1-DsAAAAM/gojo-anime.gif" width="100"/>
+  <img src="https://tenor.com/view/jujutsu-kaisen-gojo-gif-23131247" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/xp4da">
@@ -7,6 +7,7 @@
    </a>
   <a href="https://www.instagram.com/xp4da/?next=%2F">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Innstagram Badge"/>
+  </a>
     <img src="https://komarev.com/ghpvc/?username=your-github-xp4da&style=flat-square&color=blue" alt=""/>
     <h1>
   hey there
