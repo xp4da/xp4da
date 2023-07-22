@@ -16,7 +16,16 @@
 <div align="center">
   <img src="https://tenor.com/view/viciadoemcodar-gif-26484614" width="600" height="300"/>
 </div>
- 
+
+  ---
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+ - :telescope: I’m a 11th grade student, contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xp4da)
 <!---
 xp4da/xp4da is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
