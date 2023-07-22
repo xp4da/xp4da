@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/view/jujutsu-kaisen-gojo-gif-23131247" width="100"/>
+  <img src="https://tenor.com/view/anime-hyrox-gif-21929728" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/xp4da">
