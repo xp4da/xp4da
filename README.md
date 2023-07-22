@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xp4da)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram'-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xp4da)
 
 ---
 
